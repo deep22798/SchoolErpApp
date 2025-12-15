@@ -1,19 +1,19 @@
 # School ERP Flutter App
 
-A complete School ERP mobile application built using **Flutter**.
+A complete School ERP mobile application developed using **Flutter**.
 
 ## Features
-- Student, Teacher, Admin dashboards
-- Attendance & Homework
-- Examination & Results
+- Student, Teacher & Admin dashboards
+- Attendance & Homework Management
+- Examination & Result System
 - Library Management
-- Fee Payment
-- Notifications & Messaging
-- Firebase integration
+- Fee Payment & Online Payment
+- Messaging & Notifications
+- Firebase Integration
 
 ## Tech Stack
 - Flutter (Android, iOS, Web)
-- GetX
+- GetX State Management
 - Firebase
 - REST API (PHP Backend)
 
